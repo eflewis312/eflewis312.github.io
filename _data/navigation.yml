@@ -10,15 +10,15 @@
 main:
   - title: "CV"
     url: /files/Teaching_Resume-1.pdf
+
+  - title: "Tutoring"
+    url: /teaching/   
     
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
